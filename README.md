@@ -52,7 +52,7 @@ Get all the components ready.
 
 > ![](vertopal_a3275a07042046bc80afa9054cbf0704/media/image10.png) 
 >  
-**Soldering all** the components to **PCB PCB**.
+**Soldering all** the components to **PCB**.
 
 ![](vertopal_a3275a07042046bc80afa9054cbf0704/media/image11.png) 
  
@@ -117,7 +117,7 @@ Get all the components ready.
 
 > Power the circuit using adapter.
 >
-> The **Red Led Red Led** will **glow glow** showing that battery is
+> The **Red Led** will **glow** showing that battery is
 > charging.
 
 
